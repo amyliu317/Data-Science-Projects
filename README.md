@@ -1,10 +1,10 @@
 # Data-science-Projects list
- - Customer churn prediction 
+ - Market churn prediction 
     - key words: confusion matrix, supervised learning(Logistic regression,KNN,Random forest), feature importance
- - Fraud detection problem
- - Movie recommendation ALS
+ - Anomaly detection problem
+ - Movie recommendation 
     - Alternative least square model
- - Movie topic clustering
+ - Topic analysis - NLP
     - Key words: TF-IDF, kmeans,LDA
- - SF Crime Analysis
-    - Key words: Spark, Clustering
+ - Salary Analysis
+    - Key words: Clustering
